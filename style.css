@@ -1,0 +1,51 @@
+body{
+    background-image: url("istockphoto-670720094-612x612.png");
+    background-color: aqua 
+}
+
+h1{ 
+   font-size: 80px;
+   text-align: center;
+    color: rgb(161, 9, 34);  
+padding-bottom: 20px;
+}
+
+h2{
+font-size: 30px;
+text-align: center;
+padding-top: 50px;
+}
+
+h5{
+    text-align: center;
+    font-size: 20px;
+    display: block;
+    color: rgb(187, 42, 17);
+    padding: 20px;
+}
+
+input{
+    position: relative;
+    margin-top:78px;
+    margin-right:auto;
+    margin-bottom:0px;
+    margin-left:auto;
+    }
+    .form-select{
+    text-align: center;
+    margin: auto;
+    width: 35%;
+    border: 3px solid rgb(166, 177, 166);
+    padding: 10px;
+    }
+    
+    span{
+        font-weight: bold;
+    }
+    p{
+        text-align: justify;
+    background-color: rgb(232, 235, 227);
+    margin: auto;
+    width: 35%;
+    padding: 0px 20px 20px 20px;
+    }
